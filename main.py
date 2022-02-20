@@ -2,6 +2,7 @@ import telebot
 import time
 from tqdm import tqdm
 
+# Don't try using this token, it has already expired 🤡🤡🤡
 bot = telebot.TeleBot("5064443225:AAEoREVk5gsCLoWS3mBnD7JuKjajDdyD87M")
 
 
